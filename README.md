@@ -33,7 +33,7 @@ Uses **pyTelegramBotAPI** and **CoinGecko API** for market data.
 
 ## Installation
 
-1. [Download the source code](https://github.com/yourusername/telegram-trading-bot/archive/refs/heads/main.zip)
+1. [Download the source code](https://github.com/kranoley/trading-telegram-bot/archive/refs/heads/main.zip)
 2. Extract the archive to any folder.
 3. Run:
    ```bash
