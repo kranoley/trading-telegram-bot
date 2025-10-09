@@ -2,6 +2,7 @@ import telebot
 from misc.config import Config
 import os
 from bot.bot import run_bot
+import misc.init
 
 config = Config("settings", "CryptoWatcher")
 settings = config.load()
