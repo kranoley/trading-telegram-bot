@@ -5,7 +5,7 @@ Uses **pyTelegramBotAPI** and **CoinGecko API** for market data.
 
 ---
 
-<img src="https://t.bkit.co/w_68ea02cbe37ac.gif" />
+
 
 ## Features
 
