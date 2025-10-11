@@ -80,6 +80,6 @@ If successful, the admin will receive the message:
 
 ![tgid](https://i.imgur.com/B4nYSQH.jpeg)
 ---
-
+<img src="https://t.bkit.co/w_68ea01aa4a349.gif" />
 
 
