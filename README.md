@@ -2,10 +2,10 @@
 
 A Telegram bot for tracking cryptocurrency prices and setting price alerts.  
 Uses **pyTelegramBotAPI** and **CoinGecko API** for market data.
-![ttb](https://i.imgur.com/c7uETtP.jpeg)
+
 ---
 
-
+<img src="https://t.bkit.co/w_68ea02cbe37ac.gif" />
 
 ## Features
 
