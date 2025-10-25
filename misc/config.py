@@ -3,6 +3,7 @@ import json
 import hashlib
 from pathlib import Path
 
+
 class Config:
     def __init__(self, name, folder):
         self.name = name
