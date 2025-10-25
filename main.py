@@ -4,8 +4,10 @@ import os
 from bot.bot import run_bot
 import misc.init
 
+
 config = Config("settings", "CryptoWatcher")
 settings = config.load()
+
 
 if not settings:
     settings = {"token": "", "admin_id": 0, "whitelist": [], "check_interval": 3600, "alerts": []}
