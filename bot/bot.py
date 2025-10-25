@@ -5,6 +5,7 @@ from misc.rates_api import RatesApi
 import time
 import threading
 
+
 def run_bot(initial_settings):
     token = initial_settings["token"]
     bot = telebot.TeleBot(token, parse_mode="HTML")
